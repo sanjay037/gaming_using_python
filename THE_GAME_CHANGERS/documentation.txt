@@ -1,0 +1,13 @@
+SPECIFICATIONS :
+				This three in one game contains video files,image files and a sound file with the source code for each game with a main file.For this game to run we require pygame module ,moviepy module,imageio module with ffmpeg path in the extension of imageio.The videos are in mp4 format and the sound in mp3 format and the images in jpg and png format.Images are located in img folder and the videos are located in mp4 folder and we also loaded ttf file for the game font.So if any of  the above mentioned module and files are missing, it will through an error and game won't run.
+
+
+DESIGN : 
+		We designed a three in one a game,where Sanjay created car game,Phani created space2 game and sai kiran created space game.We imported all these game files into main.py, which also imported all videos and sound files.n  The main.py should be the file to be executed to run the game. The video selection and editing were done by Sai kiran and Sanjay.Adding subtitles and choosing music file was done by Phani.The game is approximately can be played for three minutes and the game changes automatically when the required conditions are met.To complete car game we have to score more than 20 and for completing space game, one has to score more then 35,and to complete boss level game one has to repeatedly shoot the bosses for three seconds and score more than 90.
+
+
+
+**DISCLAMER**
+YOU CAN ALSO PLAY EACH GAME SEPERATELY BY RUNNING THEIR FILES INDIVIDUALLY.
+
+

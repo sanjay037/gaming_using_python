@@ -1,8 +1,9 @@
-SYSTEM REQUIREMENTS : 1) moviepy  pip install moviepy  
+SYSTEM REQUIREMENTS : 
+		      1) moviepy  pip install moviepy  
 		      2) imageio  pip install imageio  
 		      3) In python interpreter:  
-			  import imageio  
-			  ffmpeg.plugin.download()  
+			    import imageio  
+			    ffmpeg.plugin.download()  
 
 
 The Game Changers  

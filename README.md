@@ -9,7 +9,7 @@ The Game Changers
 -----------------------------------------------------------------------------------
 It starts out with an alien invasion where the earth is almost doomed it's upto the player to save earth.
 To win this game you want to first complete car game and then spaceship and finally boss level.  
-We can increase the fardness of the game by increasing the number of cars and spaceships in respective levels and also increase the score to win the game in boss level.
+We can increase the hardness of the game by increasing the number of cars and spaceships in respective levels and also by increasing the score to win the game in boss level.
 
 
 Run The Main.py File  
